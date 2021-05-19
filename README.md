@@ -2,8 +2,8 @@
 - 👀 I’m interested in WebDev and Cyber Security
 - 🌱 I’m currently learning Computer Science @ Universidad Carlos III in Madrid and @ 42madrid
 - 📫 My socials are:  
-      💙 [https://twitter.com/_MiDDiz](Twitter)
-      💓 [https://www.instagram.com/its_middiz/](Instagram)
+      💙 [Twitter](https://twitter.com/_MiDDiz)
+      💓 [Instagram](https://www.instagram.com/its_middiz)
       🖤 jnaftana @ 42network
       
 
