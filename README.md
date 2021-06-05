@@ -12,4 +12,6 @@ MiDDiz/MiDDiz is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 [![MiDDiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiDDiz&theme=tokyonight&show_icons=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiDDiz)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
