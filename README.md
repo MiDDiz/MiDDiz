@@ -6,7 +6,7 @@
       💓 [Instagram](https://www.instagram.com/its_middiz)
       🖤 jnaftana @ 42network
       
-* 👨‍🎓 [Click Me!](middiz.github.io/main) in order to get to my website: 
+* 👨‍🎓 [Click Me!](https://middiz.github.io/main) in order to get to my website: 
       - It has my [portfolio]() with very interesting projects.
       - Also has [On-line CV]() if you want to have a peek at my formation and experience 😉
 <!---
