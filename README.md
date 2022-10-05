@@ -6,7 +6,9 @@
       💓 [Instagram](https://www.instagram.com/its_middiz)
       🖤 jnaftana @ 42network
       
-- 👨‍🎓 [Click Me!]() in order to see my on-line web with my []
+* 👨‍🎓 [Click Me!](middiz.github.io/main) in order to get to my website: 
+      - It has my [portfolio]() with very interesting projects.
+      - Also has [On-line CV]() if you want to have a peek at my formation and experience 😉
 <!---
 MiDDiz/MiDDiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
