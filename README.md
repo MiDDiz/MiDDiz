@@ -1,14 +1,11 @@
 - 👋 Hi, I’m @MiDDiz
 - 👀 I’m interested in WebDev and Cyber Security
-- 🌱 I’m currently learning Computer Science @ Universidad Carlos III in Madrid and @ 42madrid
+- 🌱 I’m currently learning Computer Science and Engineering at University Carlos III of Madrid
 - 📫 My socials are:  
       💙 [Twitter](https://twitter.com/_MiDDiz)
       💓 [Instagram](https://www.instagram.com/its_middiz)
-      🖤 jnaftana @ 42network
       
-* 👨‍🎓 [Click Me!](https://middiz.github.io/main) in order to get to my website: 
-      - It has my [portfolio]() with very interesting projects.
-      - Also has [On-line CV]() if you want to have a peek at my formation and experience 😉
+- Previously I was doing the 42 cursus and The Odin Project Full-Stack course.
 <!---
 MiDDiz/MiDDiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
