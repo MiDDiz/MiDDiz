@@ -5,7 +5,7 @@
       💙 [Twitter](https://twitter.com/_MiDDiz)
       💓 [Instagram](https://www.instagram.com/its_middiz)
       
-- Previously I was doing the 42 cursus and The Odin Project Full-Stack course.
+- Previously I was doing the 42madrid cursus and The Odin Project Full-Stack course.
 <!---
 MiDDiz/MiDDiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
