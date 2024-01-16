@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MiDDiz
-- 👀 I’m interested in WebDev and Cyber Security
+- 👀 I’m interested in AI and Cyber Security
 - 🌱 I’m currently learning Computer Science and Engineering at University Carlos III of Madrid
 - 📫 My socials are:  
       💙 [Twitter](https://twitter.com/_MiDDiz)
