@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @MiDDiz
 - 👀 I’m interested in AI, Cyber Security and Automatization.
 - 🌱 I’m currently learning Computer Science and Engineering at University Carlos III of Madrid
--  I'm also working as a Junior Security Developer for BBVA's Infrastructure Platform.
+- 💼 I'm also working as a Junior Security Developer for BBVA's Infrastructure Platform.
 - 📫 My socials are:  
       💙 [Twitter](https://twitter.com/_MiDDiz)
       💓 [Instagram](https://www.instagram.com/its_middiz)
+      💛 [LinkedIn](https://www.linkedin.com/in/joan-carlos-naftanaila/)
       
 - Previously I was doing the 42madrid cursus and The Odin Project Full-Stack course.
 <!---
